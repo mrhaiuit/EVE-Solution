@@ -8,7 +8,6 @@ E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\FluentValidation.Valida
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\FluentValidation.dll
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Autofac.dll
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\EntityFramework.dll
-E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\EVE.Data.dll
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\AutoMapper.dll
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\EVE.ApiModels.pdb
@@ -19,7 +18,6 @@ E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\FluentValidation.xml
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Autofac.pdb
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Autofac.xml
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\EntityFramework.xml
-E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\EVE.Data.pdb
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\EVE.Data.dll.config
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\AutoMapper.xml
@@ -27,3 +25,5 @@ E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Copy
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\App.Config
+E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\HAI\EVE\Backend\V2\EVE-Solution\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
