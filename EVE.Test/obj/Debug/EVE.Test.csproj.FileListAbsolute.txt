@@ -1,0 +1,8 @@
+E:\HAI\EVE\Backend\V2\Build\App.Config
+E:\HAI\EVE\Backend\V2\Build\ConsoleApp1.exe.config
+E:\HAI\EVE\Backend\V2\Build\ConsoleApp1.exe
+E:\HAI\EVE\Backend\V2\Build\ConsoleApp1.pdb
+E:\HAI\EVE\Backend\V2\EVE-Solution\EVE.Test\obj\Debug\EVE.Test.csprojAssemblyReference.cache
+E:\HAI\EVE\Backend\V2\EVE-Solution\EVE.Test\obj\Debug\EVE.Test.csproj.CopyComplete
+E:\HAI\EVE\Backend\V2\EVE-Solution\EVE.Test\obj\Debug\ConsoleApp1.exe
+E:\HAI\EVE\Backend\V2\EVE-Solution\EVE.Test\obj\Debug\ConsoleApp1.pdb

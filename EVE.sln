@@ -25,7 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussiness", "Bussiness", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE.Bussiness", "..\Components\EVE.Bussiness\EVE.Bussiness.csproj", "{3A2A6E63-7FA5-4D1A-B8EC-E29665B010F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DD684325-593E-4337-A5F1-EC9B24B7B08B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE.Test", "EVE.Test\EVE.Test.csproj", "{DD684325-593E-4337-A5F1-EC9B24B7B08B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
